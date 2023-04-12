@@ -1,6 +1,6 @@
 <?php 
 
-namespace Topdocode\OnlyMe;
+namespace Fajar\OnlyMe;
 use GuzzleHttp\Client;
 
 class OnlyMe
